@@ -9,7 +9,7 @@ function App() {
           type="text"
           className="mt-5 w-[200px] h-[40px] text-sm px-4 py-2 bg-input-field rounded-3xl border-solid border-black border-2 outline-none"
         />
-        <button className="bg-blue-500 hover:bg-blue-700 text-white text-md font-bold mt-6 px-8 rounded">
+        <button className="bg-blue-500 hover:bg-blue-700 text-white mt-5 py-2 px-4 rounded">
           Search
         </button>
       </div>
