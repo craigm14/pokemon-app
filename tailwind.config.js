@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "regal-blue": "#243c5a",
+        "title-blue": "#243c5a",
         "input-field": "#ffcb05"
       },
     },
