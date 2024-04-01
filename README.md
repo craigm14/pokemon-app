@@ -1,5 +1,7 @@
 CH16 Craig Moore - React App project
 
+Decicded to give tailwind css a shot since I've never used it. 
+
 Pokemon app
 
 search for pokemon
