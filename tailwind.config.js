@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         "title-blue": "#243c5a",
-        "input-field": "#ffcb05"
+        "input-field": "#ffcb05",
+        "title-yellow": "#243c5a",
       },
     },
   },

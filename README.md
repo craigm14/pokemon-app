@@ -13,3 +13,9 @@ Type of Pokemon
 Functionality to be added in future 
 
 Favourite a pokemon
+
+
+
+/////////////////////
+click on button to make request 
+    function to make request, onclick event added to button. Once button is clicked invokes the searchPokemon function which will get the pokemon api url 
