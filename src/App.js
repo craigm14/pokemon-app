@@ -54,7 +54,7 @@ function App() {
         <Favourite />
       </div>
       <FavouriteSection />
-      <div className="text-3xl pt-5  flex justify-center flex-col items-center mb-10 ">
+      <div className="text-3xl pt-5 flex justify-center flex-col items-center mb-10 ">
         <div className="bg-yellow-300 max-w-96 rounded p-5 text-center ">
           {!pokemonChosen ? (
             <h1>Please chose a pokemon</h1>
