@@ -4,7 +4,6 @@ import axios from "axios";
 import React, { useState } from "react";
 import AddFavourites from "./conponents/AddFavourites";
 
-
 function App() {
   const [pokemonName, setPokemonName] = useState("");
   const [pokemonChosen, setPokemonChosen] = useState(false);
@@ -65,7 +64,6 @@ function App() {
         >
           Search
         </button>
-       
       </div>
       <div className="pt-10 flex justify-center">
         <button
@@ -75,7 +73,7 @@ function App() {
           Add to Favourites
         </button>
       </div>
-      <div className=" text-3xl pt-5 flex justify-center flex-col items-center mb-10 ">
+      <div className=" text-3xl pt-8 flex justify-center flex-col items-center mb-10 ">
         <div className="bg-yellow-300 max-w-96 rounded p-5 text-center ">
           {!pokemonChosen ? (
             <h1>Please choose a pokemon</h1>
